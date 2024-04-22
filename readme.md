@@ -14,7 +14,7 @@
 **1. Clone the Repository and Navigate to Directory:**
 
 ```bash
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/Rohitrky2021/market_assign_devops)
 cd ASSIGNMENT_LOG_MONITORING
 ```
 
